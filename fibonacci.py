@@ -17,4 +17,4 @@ def fibo(n):
     return series
 
 if __name__ == '__main__':
-    print(fibo(3))
+    print(fibo(2))
